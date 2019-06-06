@@ -17,4 +17,3 @@ A instalação do Anaconda é muito simples, basta baixar o instalador para a su
 
 ## License
 This project is licensed under the MIT License
-a
