@@ -16,6 +16,17 @@ A instalação do Anaconda é muito simples, basta baixar o instalador para a su
 8. Função Trigonométrica em Python: Função Cosseno
 9. Função Trigonométrica em Python: Função Tangente
 10. Funções Trigonométricas em Python: Seno e Cosseno
+11. Função Exponencial
+12. Função Logarítmica
+13. Determinar a Solução de uma Equação
+14. Cálculo Diferencial e Integral: Limites
+15. Cálculo Diferencial e Integral: Derivadas
+16. Cálculo Diferencial e Integral: Derivadas Parciais
+17. Cálculo Diferencial e Integral: Integrais
+18. Representação Gráfica de Funções com Duas Variáveis
+19. Matrizes
+20. Operações com Matrizes
+21. Sistemas Lineares
 
 ## Authors
 * **Denis Carlos Lima Costa (denis.costa@ifpa.edu.br)** - *Federal Institute of Pará - IFPA*
