@@ -1,2 +1,2 @@
-# metodos-matematicos-aplicados-nas-engenharias-via-sistemas-computacionais
+# Matemáticos Aplicados nas Engenharias Via Sistemas Computacionais
 Códigos do livro Métodos Matemáticos Aplicados nas Engenharias Via Sistemas Computacionais
