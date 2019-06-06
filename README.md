@@ -11,9 +11,10 @@ A instalação do Anaconda é muito simples, basta baixar o instalador para a su
 3.
 
 ## Authors
-* **Denis Carlos Lima Costa
-* **Heictor Alves de Oliveira Costa
-* **Lucas Pompeu Neves
+* **Denis Carlos Lima Costa**
+* **Heictor Alves de Oliveira Costa**
+* **Lucas Pompeu Neves**
 
 ## License
 This project is licensed under the MIT License
+a
