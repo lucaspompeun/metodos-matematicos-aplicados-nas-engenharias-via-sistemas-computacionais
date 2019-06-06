@@ -6,4 +6,14 @@ Para a utilização dos códigos, há a necessidade da utilização do [Anaconda
 A instalação do Anaconda é muito simples, basta baixar o instalador para a sua plataforma no [site de download](https://www.anaconda.com/distribution/#download-section). Para quem precisa de um passo a passo mais mastigado, o site apresenta um roteiro bem detalhado como fazê-lo (veja o roteiro para [Windows](http://docs.anaconda.com/anaconda/install/windows/)).
 
 ## Índice
-1. 
+1.
+2.
+3.
+
+## Authors
+* **Denis Carlos Lima Costa
+* **Heictor Alves de Oliveira Costa
+* **Lucas Pompeu Neves
+
+## License
+This project is licensed under the MIT License
