@@ -6,9 +6,16 @@ Para a utilização dos códigos, há a necessidade da utilização do [Anaconda
 A instalação do Anaconda é muito simples, basta baixar o instalador para a sua plataforma no [site de download](https://www.anaconda.com/distribution/#download-section). Para quem precisa de um passo a passo mais mastigado, o site apresenta um roteiro bem detalhado como fazê-lo (veja o roteiro para [Windows](http://docs.anaconda.com/anaconda/install/windows/)).
 
 ## Índice
-1.
-2.
-3.
+1. Operações Básicas em Matemática em Python
+2. Operações com Polinômios em Python
+3. Função Polinomial do 1º Grau em Python
+4. Função Polinomial do 2º Grau em Python
+5. Função Polinomial do 3º Grau em Python
+6. Função Polinomial do 4º Grau em Python
+7. Função Trigonométrica em Python: Função Seno
+8. Função Trigonométrica em Python: Função Cosseno
+9. Função Trigonométrica em Python: Função Tangente
+10. Funções Trigonométricas em Python: Seno e Cosseno
 
 ## Authors
 * **Denis Carlos Lima Costa (denis.costa@ifpa.edu.br)** - *Federal Institute of Pará - IFPA*
