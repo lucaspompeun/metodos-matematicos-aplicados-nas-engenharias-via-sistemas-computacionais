@@ -33,5 +33,5 @@ A instalação do Anaconda é muito simples, basta baixar o instalador para a su
 * **Heictor Alves de Oliveira Costa (heictor8@gmail.com)** - *Faculdade Estácio de Belém - IESAM*
 * **Lucas Pompeu Neves (lucaspompeuneves@gmail.com)** - *Faculdade Estácio de Belém - IESAM*
 
-## License
-This project is licensed under the MIT License
+## Licença
+Este projeto está licenciado sob a licença MIT
