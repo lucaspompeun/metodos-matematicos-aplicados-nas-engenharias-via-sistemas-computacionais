@@ -29,9 +29,9 @@ A instalação do Anaconda é muito simples, basta baixar o instalador para a su
 21. Sistemas Lineares
 
 ## Autores
-* **Denis Carlos Lima Costa (denis.costa@ifpa.edu.br)** - *Federal Institute of Pará - IFPA*
-* **Heictor Alves de Oliveira Costa (heictor8@gmail.com)** - *University Estácio of Belém - IESAM*
-* **Lucas Pompeu Neves (lucaspompeuneves@gmail.com)** - *University Estácio of Belém - IESAM*
+* **Denis Carlos Lima Costa (denis.costa@ifpa.edu.br)** - *Instituto Federal do Pará - IFPA*
+* **Heictor Alves de Oliveira Costa (heictor8@gmail.com)** - *Faculdade Estácio de Belém - IESAM*
+* **Lucas Pompeu Neves (lucaspompeuneves@gmail.com)** - *Faculdade Estácio de Belém - IESAM*
 
 ## License
 This project is licensed under the MIT License
