@@ -1,4 +1,4 @@
-# Matemáticos Aplicados nas Engenharias Via Sistemas Computacionais
+# Métodos Matemáticos Aplicados nas Engenharias Via Sistemas Computacionais
 Códigos do livro Métodos Matemáticos Aplicados nas Engenharias Via Sistemas Computacionais
 
 Para a utilização dos códigos, há a necessidade da utilização do [Anaconda](https://www.anaconda.com), que é uma interface gráfica que permite que você inicie aplicativos e gerencie pacotes, ambientes e canais sem a necessidade de usar comandos de linha de comando. A partir do Anaconda Navigator, será possível acessar o [Spyder](https://www.spyder-ide.org/) (poderoso ambiente científico escrito em Python, para Python, e projetado por e para cientistas, engenheiros e analistas de dados).
